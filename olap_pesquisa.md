@@ -48,15 +48,3 @@ Essas estruturas de dados facilitam a realização de consultas rápidas e compl
 6. **Testes**: Realizar testes de funcionalidade, desempenho e segurança.
 7. **Implantação**: Disponibilizar o cubo OLAP para os usuários finais.
 8. **Manutenção**: Monitorar e atualizar o cubo OLAP continuamente conforme necessário.
-
----
-
-## Contribuições
-
-Estou abertos a contribuições! Fique à vontade para abrir issues ou pull requests para melhorias e novos casos de uso.
-
----
-
-## Contato
-
-Para mais informações, entre em contato: [diegohenriquer.76@gmail.com](mailto:diegohenriquer.76@gmail.com)
