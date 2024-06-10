@@ -26,8 +26,7 @@
 ## Cubos OLAP (Online Analytical Processing)
 
 ### O que são
-Um cubo OLAP é uma matriz multidimensional de dados. _Online analytical processing_ (OLAP) é uma técnica baseada em computador de análise de dados em busca de insights. O termo cubo aqui se refere a um conjunto de dados multidimensional, que às vezes também é chamado de hipercubo se o número de dimensões for maior que três.
-Essas estruturas de dados facilitam a realização de consultas rápidas e complexas em bancos de dados.
+O processamento analítico on-line (OLAP) é uma tecnologia de software que você pode usar para analisar dados de negócios de diferentes pontos de vista. As organizações coletam e armazenam dados de várias fontes de dados, como sites, aplicativos, medidores inteligentes e sistemas internos. O OLAP combina e agrupa esses dados em categorias para fornecer insights acionáveis para o planejamento estratégico. Por exemplo, um varejista armazena dados sobre todos os produtos que vende, como cor, tamanho, custo e localização. O varejista também coleta dados de compra do cliente, como o nome dos itens pedidos e o valor total das vendas, em um sistema diferente. O OLAP combina os conjuntos de dados para responder a perguntas como quais produtos coloridos são mais populares ou como o posicionamento do produto afeta as vendas.
 
 ### Componentes da Arquitetura
 1. **Fonte de Dados**: Pode incluir bancos de dados relacionais, arquivos CSV e sistemas ERP.
