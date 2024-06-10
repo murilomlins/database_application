@@ -1,9 +1,5 @@
-## 1. Respostas da primeira parte estão na pasta 'star-snow-cube'
-
 ### 1. Proponha um modelo em estrela ou floco de neve com o fato pedido, as seguintes métricas serão obrigatórias- valor total do pedido, valor unitario do prato e quantidade. As dimensões obrigatórias serão, cliente, ano mes e dia.
 
-
-## 2. Respostas da segunda parte estão no arquivo 'data_explore.sql' dentro da pasta 'db'
 ### 2. Entregar as queries que respondam:
 
 #### Qual o cliente que mais fez pedidos por ano
